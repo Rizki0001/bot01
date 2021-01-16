@@ -27,7 +27,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG:Rizki;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=6281315995628:+62 813-1599-5628\n' //Nomor whatsapp kamu
             + 'END:VCARD'
-const
+const 
 {
 WAConnection,
    MessageType,
@@ -1839,9 +1839,9 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 ├≽️ *.Nime (nama anime)*
 ├ _.Nime naruto_ 
 ├≽️ *.Namae*
-├ _Ex = .Namae udin_ 
+├ _Ex = .Namae iqbal_ 
 ├≽️ *.Alay*
-├ _Ex = .Alay hai udin_ 
+├ _Ex = .Alay hai Iqbal_ 
 ├≽️ *.Puisi1*
 ├≽️ *.Puisi2*
 ├≽️ *.Puisi3*
@@ -1859,16 +1859,16 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 ├≽️ *.Chatprank (teks1/teks2)*
 ├ _Ex : .Chatprank Hai bang/sat_ 
 ├≽️ *.Alay (teks)*
-├ _Ex : .Alay hai udin_ 
+├ _Ex : .Alay hai Iqbal_ 
 ╰────────────⊱
 
 ╭════•›「 PRIMBON 」 
 ├≽️ *.Arti (Namamu)*
-├ _Ex = .Arti udin_ 
+├ _Ex = .Arti iqbal_ 
 ├≽️ *.Couple (Namamu & doi)*
-├ _Ex = .Couple udin & udan_ 
+├ _Ex = .Couple iqbal & doi_ 
 ├≽️ *.Getzodiak*
-├ _Ex : .Getzodiak udin & 09-09-2002_ 
+├ _Ex : .Getzodiak Iqb & 09-09-2002_ 
 ├≽️ *.Zodiak (zodiak)*
 ├ _Ex : .Zodiak libra_ 
 ├≽️ *.Mimpi (teks)*
@@ -1879,11 +1879,11 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 ├≽️ *.Stiker*
 ├ _Kirim foto ketik .stiker_ 
 ├≽️ *.Nulis*
-├ _Ex = .Nulis aku cinta udin_ 
+├ _Ex = .Nulis aku cinta Iqbal_ 
 ├≽️ *.Ocr*
 ├ _Mencopy kalimat di gambar_ 
 ├≽️ *.Stalk (username ig)*
-├ _Ex = .Stalk @udin_ 
+├ _Ex = .Stalk @iqbal_ 
 ├≽️ *.Shortlink (link)*
 ├ _Shorter link_ 
 ╰────────────⊱
@@ -1911,59 +1911,59 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 
 ╭════•›「 TEXT 」 
 ├≽️ *.Kata (quotes/author)*
-├ _Ex = .Kata Aku cinta dia/Udin_ 
+├ _Ex = .Kata Aku cinta dia/Iqbal_ 
 ├≽️ *.Logopornhub (teks1/teks2)*
-├ _Ex : .Logopornhub Udin/nime 
+├ _Ex : .Logopornhub Iqbal/Rizki 
 ├≽️ *.Lion (teks1/teks2)*
-├ _Ex : .Lion Udin/nime 
+├ _Ex : .Lion Iqbal/Rizki 
 ├≽️ *.Ninja (teks1/teks2)*
-├ _Ex : .Ninja Udin/nime 
+├ _Ex : .Ninja Iqbal/Rizki 
 ├≽️ *.Wolf (teks1/teks2)*
-├ _Ex : .Wolf Udin/nime 
+├ _Ex : .Wolf Iqbal/Rizki 
 ├≽️ *.Glitch (teks1/teks2)*
-├ _Ex : .Glich Udin/nime 
+├ _Ex : .Glich Iqbal/Rizki 
 ├≽️ *.Snow (teks)*
-├ _Ex : .Snow Udin
+├ _Ex : .Snow Iqbal
 ├≽️ *.Neon1 (teks)*
-├ _Ex : .Neon1 Udin_
+├ _Ex : .Neon1 Iqbal_
 ├≽️ *.Neon2 (teks)*
-├ _Ex : .Neon2 Udin_
+├ _Ex : .Neon2 Iqbal_
 ├≽️ *.Neon3d (teks)*
-├ _Ex : .Neon3d Udin_
+├ _Ex : .Neon3d Iqbal_
 ├≽️ *.Neon4 (teks)*
-├ _Ex : .Neon4 Udin_
+├ _Ex : .Neon4 Iqbal_
 ├≽️ *.Neon5 (teks)*
-├ _Ex : .Neon5 Udin
+├ _Ex : .Neon5 Iqbal
 ├≽️ *.Sand1 (teks)*
-├ _Ex : .Sand1 Udin_
+├ _Ex : .Sand1 Iqbal_
 ├≽️ *.Sand2 (teks)*
-├ _Ex : .Sand2 Udin_
+├ _Ex : .Sand2 Iqbal_
 ├≽️ *.Sand3 (teks)*
-├ _Ex : .Sand3 Udin_
+├ _Ex : .Sand3 Iqbal_
 ├≽️ *.Sand4 (teks)*
-├ _Ex : .Sand4 Udin_
+├ _Ex : .Sand4 Iqbal_
 ├≽️ *.Sky (teks)*
-├ _Ex : .Sky Udin
+├ _Ex : .Sky Iqbal
 ├≽️ *.cloud (teks)*
-├ _Ex : .Cloud Udin_
+├ _Ex : .Cloud Iqbal_
 ├≽️ *.Blood (teks)*
-├ _Ex : .Blood Udin_
+├ _Ex : .Blood Iqbal_
 ├≽️ *.Water (teks)*
-├ _Ex : .Water Udin_
+├ _Ex : .Water Iqbal_
 ├≽️ *.Joker (teks)*
-├ _Ex : .Joker Udin_
+├ _Ex : .Joker Iqbal_
 ├≽️ *.Thunder (teks)*
-├ _Ex : .Thunder Udin_
+├ _Ex : .Thunder Iqbal_
 ├≽️ *.Coding (teks)*
-├ _Ex : .Coding Udin_
+├ _Ex : .Coding Iqbal_
 ├≽️ *.Luxy (teks)*
-├ _Ex : .Luxy Udin_
+├ _Ex : .Luxy Iqbal_
 ├≽️ *.Holo (teks)*
-├ _Ex : .Holo Udin_
+├ _Ex : .Holo Iqbal_
 ├≽️ *.Old (teks)*
-├ _Ex : .Old Udin_
+├ _Ex : .Old Iqbal_
 ├≽️ *.Balon (teks)*
-├ _Ex : .Balon Udin_
+├ _Ex : .Balon Iqbal_
 ╰────────────⊱
 
 ╭════•›「 EDUKASI 」 
